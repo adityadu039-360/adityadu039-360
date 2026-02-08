@@ -7,6 +7,6 @@ int main() {
 
     printf("Enter full file path:\n");
     scanf("%s",path);
-    system(path);`
+    system(path);
     return 0;
 }
